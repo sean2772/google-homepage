@@ -1,0 +1,50 @@
+#logo{
+    margin-left: 783px;
+    margin-top: 198px;
+}
+
+#header{
+    margin-left: 1700px;
+    margin-top: -275px;
+}
+
+#search-bar{
+    margin-left: 710px;
+    margin-top: 260px;
+}
+.text-box{
+    width: 450px; height: 35px; padding: 10px;
+}
+.buttons{
+    margin-left: 65px;
+    margin-top: 30px;
+       
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font: cursive;
+    font-size: 12px;
+}
+.footer{
+    font-size: 12px;
+    font-family: arial;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#e5e4e4;
+}
+.footer2{
+    font-size: 12px;
+    font-family: arial;
+    margin-left: 1720px;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#e5e4e4;
+}
